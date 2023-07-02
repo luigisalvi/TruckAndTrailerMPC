@@ -1,1 +1,2 @@
 The aim of this study is to design a nonlinear MPC controller through the help of MATLAB ® , capable to find the optimal route to autonomously park the truck with a single trailer from its initial position x0 to the desired target position. 
+All the results of this study are thoroughly discussed in the following article: https://www.researchgate.net/publication/371987898_Non_Linear_MPC_designing_for_Truck-Trailer_autonomous_parking
